@@ -1,0 +1,20 @@
+{
+  "name": "synthesia-clone",
+  "version": "1.0.0",
+  "description": "A basic implementation of a Synthesia-like application with avatar creation, speech synthesis, and video generation.",
+  "main": "app.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "test:watch": "react-scripts test watch"
+  },
+  "repository": "https://github.com/Flo0312/synthesia-clone",
+  "author": "Flo0312",
+  "license": "MIT",
+  "dependencies": {
+    "console": "^14.17.0",
+    "node_js": "^16.6.0",
+    "react": "^17.2.0"
+  }
+}
